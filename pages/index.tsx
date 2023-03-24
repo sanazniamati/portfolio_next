@@ -72,6 +72,9 @@ export default function Home() {
             <p className={inter.className}>
               Sanaz Sanaz Sanaz Sanaz Sanaz&nbsp;API.
             </p>
+            <p className={inter.className}>
+              Sanaz Sanaz Sanaz Sanaz Sanaz&nbsp;API.
+            </p>
           </a>
 
           <a
